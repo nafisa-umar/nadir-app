@@ -2,7 +2,7 @@ import React from 'react';
 import { InfoSection } from '../../components';
 import { homeObjOne, homeObjTwo } from './Data';
 
-function Products() {
+function About() {
   return (
     <>
       <InfoSection {...homeObjOne} />
@@ -11,4 +11,4 @@ function Products() {
   );
 }
 
-export default Products;
+export default About;

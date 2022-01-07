@@ -4,14 +4,14 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'Volunteering Platform',
+  headline: 'Take Charge and Contribute to Changemaking',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-  buttonLabel: 'Get Started',
+    'We aim to connect the privileged students of Nile University for Community Service around the metropolis of Abuja.',
+  buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card',
+  alt: 'nadir logo',
   start: ''
 };
 
@@ -21,14 +21,14 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  topLine: 'What does Nadir mean?',
+  headline: 'The lowest point.',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+    "We like to think of it as the starting point. The beginning of your (our) rise to the peak.",
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
-  alt: 'Vault',
+  alt: 'mountain',
   start: ''
 };
 
@@ -38,15 +38,15 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Research',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'Over 100 students from the Nile University of Nigeria, Abuja and Baze University were surveyed.',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
+    "The feedback was positive and over 90% students indicated an interest in a platform like Nadir.",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
   img: require('../../images/profile.jpg'),
-  alt: 'Vault',
+  alt: 'woman',
   start: 'true'
 };
 
@@ -56,13 +56,13 @@ export const homeObjFour = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Secure Database',
-  headline: 'All your data is stored on our secure server',
+  topLine: 'Current Progress',
+  headline: 'Nadir is almost completed and ready for deployment at the Nile University.',
   description:
-    'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-  buttonLabel: 'Sign Up Now',
+    'Are you interested in contributing to/using Nadir? Complete our survey to become a part of our little community of winners.',
+  buttonLabel: 'Go to Survey',
   imgStart: 'start',
   img: require('../../images/svg-3.svg'),
-  alt: 'Vault',
+  alt: 'winners',
   start: 'true'
 };

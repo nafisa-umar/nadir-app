@@ -41,9 +41,9 @@ function Navbar() {
       <IconContext.Provider value={{ color: '#fff' }}>
         <Nav>
           <NavbarContainer>
-            <NavLogo to='/' onClick={closeMobileMenu}>
+            <NavLogo to='/'  onClick={closeMobileMenu}>
               <NavIcon />
-              ULTRA
+              Nadir
             </NavLogo>
             <MobileIcon onClick={handleClick}>
               {click ? <FaTimes /> : <FaBars />}
@@ -55,19 +55,19 @@ function Navbar() {
                 </NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to='/services' onClick={closeMobileMenu}>
-                  Services
+                <NavLinks to='/homepage' onClick={closeMobileMenu}>
+                  About
                 </NavLinks>
               </NavItem>
               <NavItem>
                 <NavLinks to='/products' onClick={closeMobileMenu}>
-                  Products
+                  Research
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
                 {button ? (
                   <NavBtnLink to='/sign-up'>
-                    <Button primary>SIGN UP</Button>
+                    <Button primary>LEARN MORE</Button>
                   </NavBtnLink>
                 ) : (
                   <NavBtnLink to='/sign-up'>

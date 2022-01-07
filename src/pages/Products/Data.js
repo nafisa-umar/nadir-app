@@ -3,14 +3,14 @@ export const homeObjOne = {
   lightText: false,
   lightTopLine: false,
   lightTextDesc: false,
-  topLine: 'View Our Products',
-  headline: 'Shop through our catalog of products',
+  topLine: 'Be A Gamechanger',
+  headline: 'Give back to the community',
   description:
-    'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
-  buttonLabel: 'Shop Now',
+    'Use Nadir to plan projects and impact people in your own unique way.',
+  buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card'
+  img: require('../../images/svg-4.svg'),
+  alt: 'Watering Plant'
 };
 
 export const homeObjTwo = {
@@ -18,40 +18,14 @@ export const homeObjTwo = {
   lightText: true,
   lightTopLine: true,
   lightTextDesc: true,
-  topLine: '100% Secure',
-  headline: 'Stay protected 24/7 anywhere anytime',
+  topLine: 'Change The World',
+  headline: 'Who says you can\'t?',
   description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
+    'We know you can, and Nadir will be here to help you find like minds for anything you want to achieve',
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  img: require('../../images/svg-5.svg'),
+  alt: 'Hiker'
 };
 
-export const homeObjThree = {
-  lightBg: true,
-  lightText: false,
-  lightTextDesc: false,
-  topLine: 'Easy Setup',
-  headline: 'Super fast and simple onboarding process',
-  description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
-  imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
-};
 
-export const homeObjFour = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: 'DATA ANALYTICS',
-  headline: 'Every transaction is stored on our secure cloud database',
-  description:
-    'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
-  imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
-};
