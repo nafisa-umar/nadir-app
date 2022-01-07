@@ -1,7 +1,7 @@
 {
   
   "name": "react-website-v2",
-  "homepage": "http://nafisa-umar.github.io/nadir-app",
+  // "homepage": "http://nafisa-umar.github.io/nadir-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
