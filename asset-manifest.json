@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/nadir-app/static/js/main.1f3d6f55.chunk.js",
+    "main.js.map": "/nadir-app/static/js/main.1f3d6f55.chunk.js.map",
+    "runtime-main.js": "/nadir-app/static/js/runtime-main.2dd06ec6.js",
+    "runtime-main.js.map": "/nadir-app/static/js/runtime-main.2dd06ec6.js.map",
+    "static/js/2.d35eafd9.chunk.js": "/nadir-app/static/js/2.d35eafd9.chunk.js",
+    "static/js/2.d35eafd9.chunk.js.map": "/nadir-app/static/js/2.d35eafd9.chunk.js.map",
+    "index.html": "/nadir-app/index.html",
+    "precache-manifest.8bd1e702faf493dc65d3f6506982cd01.js": "/nadir-app/precache-manifest.8bd1e702faf493dc65d3f6506982cd01.js",
+    "service-worker.js": "/nadir-app/service-worker.js",
+    "static/js/2.d35eafd9.chunk.js.LICENSE.txt": "/nadir-app/static/js/2.d35eafd9.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/nadir-app/static/media/profile.16d95b89.jpg",
+    "static/media/svg-1.svg": "/nadir-app/static/media/svg-1.f22090ba.svg",
+    "static/media/svg-2.svg": "/nadir-app/static/media/svg-2.380134ce.svg",
+    "static/media/svg-3.svg": "/nadir-app/static/media/svg-3.941b8bac.svg",
+    "static/media/svg-4.svg": "/nadir-app/static/media/svg-4.7052882b.svg",
+    "static/media/svg-5.svg": "/nadir-app/static/media/svg-5.77498b4c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd06ec6.js",
+    "static/js/2.d35eafd9.chunk.js",
+    "static/js/main.1f3d6f55.chunk.js"
+  ]
+}
