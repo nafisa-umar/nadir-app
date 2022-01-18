@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nadir-app/precache-manifest.8bd1e702faf493dc65d3f6506982cd01.js"
+  "/nadir-app/precache-manifest.d68f170be00e5b2df88e94e0cfa9e95f.js"
 );
 
 self.addEventListener('message', (event) => {
