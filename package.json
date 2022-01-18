@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nafisa-umar.github.io/nadir-app",
+  "homepage": "https://nafisa-umar.github.io/nadir-app",
 
   "name": "nadir-app",
   
@@ -63,6 +63,10 @@
 
   "scripts": {
   
+  "predeploy": "npm run build",
+
+  "deploy": "gh-pages -d build",
+
 
     
 
@@ -81,17 +85,10 @@
 
     
 
-  "eject": "react-scripts eject",
+  "eject": "react-scripts eject"
   
 
     
-
-  "predeploy": "npm run build",
-  
-
-    
-
-  "deploy": "gh-pages -d build"
   
 
   },
