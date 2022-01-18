@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/nadir-app/static/js/main.1f3d6f55.chunk.js",
-    "main.js.map": "/nadir-app/static/js/main.1f3d6f55.chunk.js.map",
+    "main.js": "/nadir-app/static/js/main.92eb8952.chunk.js",
+    "main.js.map": "/nadir-app/static/js/main.92eb8952.chunk.js.map",
     "runtime-main.js": "/nadir-app/static/js/runtime-main.2dd06ec6.js",
     "runtime-main.js.map": "/nadir-app/static/js/runtime-main.2dd06ec6.js.map",
-    "static/js/2.d35eafd9.chunk.js": "/nadir-app/static/js/2.d35eafd9.chunk.js",
-    "static/js/2.d35eafd9.chunk.js.map": "/nadir-app/static/js/2.d35eafd9.chunk.js.map",
+    "static/js/2.e11102e4.chunk.js": "/nadir-app/static/js/2.e11102e4.chunk.js",
+    "static/js/2.e11102e4.chunk.js.map": "/nadir-app/static/js/2.e11102e4.chunk.js.map",
     "index.html": "/nadir-app/index.html",
-    "precache-manifest.d68f170be00e5b2df88e94e0cfa9e95f.js": "/nadir-app/precache-manifest.d68f170be00e5b2df88e94e0cfa9e95f.js",
+    "precache-manifest.34d4a5b557fc00e3104a0f97b65bc4a4.js": "/nadir-app/precache-manifest.34d4a5b557fc00e3104a0f97b65bc4a4.js",
     "service-worker.js": "/nadir-app/service-worker.js",
-    "static/js/2.d35eafd9.chunk.js.LICENSE.txt": "/nadir-app/static/js/2.d35eafd9.chunk.js.LICENSE.txt",
+    "static/js/2.e11102e4.chunk.js.LICENSE.txt": "/nadir-app/static/js/2.e11102e4.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/nadir-app/static/media/profile.16d95b89.jpg",
     "static/media/svg-1.svg": "/nadir-app/static/media/svg-1.f22090ba.svg",
     "static/media/svg-2.svg": "/nadir-app/static/media/svg-2.380134ce.svg",
@@ -19,7 +19,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2dd06ec6.js",
-    "static/js/2.d35eafd9.chunk.js",
-    "static/js/main.1f3d6f55.chunk.js"
+    "static/js/2.e11102e4.chunk.js",
+    "static/js/main.92eb8952.chunk.js"
   ]
 }
